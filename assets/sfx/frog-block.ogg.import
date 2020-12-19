@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/frog-block.ogg-8b7444573fb08be902410ee3dd3d78d4.oggstr"
+
+[deps]
+
+source_file="res://assets/sfx/frog-block.ogg"
+dest_files=[ "res://.import/frog-block.ogg-8b7444573fb08be902410ee3dd3d78d4.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
